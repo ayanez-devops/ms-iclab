@@ -37,4 +37,4 @@
 * curl -X GET 'http://localhost:8080/rest/mscovid/test?msg=testing'
 
 
-hello 2
+hello 3
