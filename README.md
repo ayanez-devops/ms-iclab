@@ -36,4 +36,4 @@
 ### Testing Application
 * curl -X GET 'http://localhost:8080/rest/mscovid/test?msg=testing'
 
-hello world 6
+hello world 7
